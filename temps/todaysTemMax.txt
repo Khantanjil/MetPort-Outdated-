@@ -1,0 +1,6 @@
+temperature,city,latitude,longitude
+16,Evora,38.5714,-7.9135
+18,Funchal,32.6669,-16.9241
+19,Porto,41.1579,-8.6291
+21,Braga,41.5454,-8.4265
+18,Amadora,38.7578,-9.2245
