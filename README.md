@@ -8,6 +8,10 @@ MetPort is a webmap, can view which are they the actual max temperatures on vari
   - Porto
   - Lisboa
   - Funchal
+  
+  ![](https://cdn.discordapp.com/attachments/688091927085580312/699950851074031616/Screenshot_from_2020-04-15_12-52-04.png)
+  ![](https://cdn.discordapp.com/attachments/688091927085580312/699950881600307280/Screenshot_from_2020-04-15_12-52-47.png)
+  ![](https://cdn.discordapp.com/attachments/688091927085580312/699950904195022858/Screenshot_from_2020-04-15_12-52-30.png)
 
 # New Features! (Planning)
 
